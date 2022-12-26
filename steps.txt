@@ -1,3 +1,5 @@
+Note : Keep all the files within a single folder
+
 1) Create a virtual environment with any name
    i) activate the environment 
    ii) upgrade pip
